@@ -1,3 +1,10 @@
+## [3.2.10](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.2.9...@ng-easy/builders@3.2.10) (2021-08-18)
+
+
+### Bug Fixes
+
+* **builders:** :bug: matching special characters and numbers in commit scope ([#178](https://github.com/ng-easy/platform/issues/178)) ([51f9e34](https://github.com/ng-easy/platform/commit/51f9e34ccf9e19306edf70c7b8a57c615fbb331e))
+
 ## [3.2.9](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.2.8...@ng-easy/builders@3.2.9) (2021-08-18)
 
 

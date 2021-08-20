@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.3...@ng-easy/image-config@1.2.4) (2021-08-20)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency eslint-plugin-import to ^2.24.1 ([b0da340](https://github.com/ng-easy/platform/commit/b0da3401b1dbbdbcaa49e603d3320beb75cd9227))
+
 ## [1.2.3](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.2...@ng-easy/image-config@1.2.3) (2021-08-18)
 
 

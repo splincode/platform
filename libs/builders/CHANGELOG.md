@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.2.11...@ng-easy/builders@3.3.0) (2021-08-20)
+
+
+### Features
+
+* **builders:** :sparkles: expose semantic release configuration options ([#185](https://github.com/ng-easy/platform/issues/185)) ([2320467](https://github.com/ng-easy/platform/commit/232046782877157f72a6cdcc4adb051e79040026))
+
 ## [3.2.11](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.2.10...@ng-easy/builders@3.2.11) (2021-08-20)
 
 

@@ -1,3 +1,12 @@
+## [3.3.1](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.0...@ng-easy/builders@3.3.1) (2021-08-21)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency eslint-plugin-prettier to ^3.4.1 ([9800fc7](https://github.com/ng-easy/platform/commit/9800fc7fecfe859002eafccf2ff96348d69d7779))
+* **builders:** :arrow_up: update @ng-easy/image-config to 1.2.5 [skip ci] ([961f0dc](https://github.com/ng-easy/platform/commit/961f0dc4d58665b764761a7243791c670f0df318))
+* **builders:** :arrow_up: update @ng-easy/image-optimizer to 1.3.9 [skip ci] ([d7a2380](https://github.com/ng-easy/platform/commit/d7a238061f781c58d38db4fab564052ebd449fb1))
+
 # [3.3.0](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.2.11...@ng-easy/builders@3.3.0) (2021-08-20)
 
 

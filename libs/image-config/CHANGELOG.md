@@ -1,3 +1,11 @@
+## [1.2.6](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.5...@ng-easy/image-config@1.2.6) (2021-08-24)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.29.3 ([d858117](https://github.com/ng-easy/platform/commit/d858117708487d1a1ef53a6f2fe418b3be156e6b))
+* :arrow_up: update dependency semantic-release to ^17.4.6 ([aa0b6a5](https://github.com/ng-easy/platform/commit/aa0b6a5bcaa16a86a4e8197961958a700c2a63d7))
+
 ## [1.2.5](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.4...@ng-easy/image-config@1.2.5) (2021-08-21)
 
 

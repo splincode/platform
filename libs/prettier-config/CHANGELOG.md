@@ -1,3 +1,12 @@
+## [1.0.10](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.9...@ng-easy/prettier-config@1.0.10) (2021-08-28)
+
+
+### Bug Fixes
+
+* :arrow_up: update angular workspace ([3e24ffe](https://github.com/ng-easy/platform/commit/3e24ffed933174ce2b812522448e3f547d40b747))
+* :arrow_up: update client tooling ([c074419](https://github.com/ng-easy/platform/commit/c074419156f28c8ea0816340e1e3ad68e5abd55f))
+* :arrow_up: update dependency @nrwl/workspace to v12.8.0 ([ec5a318](https://github.com/ng-easy/platform/commit/ec5a3181633ae452688bec75be6cb349d3232ac2))
+
 ## [1.0.9](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.8...@ng-easy/prettier-config@1.0.9) (2021-08-24)
 
 

@@ -1,3 +1,10 @@
+## [3.1.13](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.12...@ng-easy/eslint-config@3.1.13) (2021-08-29)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency svgo to ^2.5.0 ([c6683ee](https://github.com/ng-easy/platform/commit/c6683ee5fdb8785be0901597608da95450a7a09f))
+
 ## [3.1.12](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.11...@ng-easy/eslint-config@3.1.12) (2021-08-28)
 
 

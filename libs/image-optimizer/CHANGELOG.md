@@ -1,3 +1,11 @@
+## [1.3.12](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.11...@ng-easy/image-optimizer@1.3.12) (2021-08-29)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency svgo to ^2.5.0 ([c6683ee](https://github.com/ng-easy/platform/commit/c6683ee5fdb8785be0901597608da95450a7a09f))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.8 [skip ci] ([95182cf](https://github.com/ng-easy/platform/commit/95182cf1381a72b07d0e15933b98edd85ba1b077))
+
 ## [1.3.11](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.10...@ng-easy/image-optimizer@1.3.11) (2021-08-28)
 
 

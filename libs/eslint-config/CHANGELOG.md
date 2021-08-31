@@ -1,3 +1,11 @@
+## [3.1.14](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.13...@ng-easy/eslint-config@3.1.14) (2021-08-31)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.30.0 ([50c839f](https://github.com/ng-easy/platform/commit/50c839f45e791dc07a2f395775db449ef0f0e8b5))
+* :arrow_up: update dependency tailwindcss to ^2.2.9 ([db26e42](https://github.com/ng-easy/platform/commit/db26e42e814993bd60f73152566586788e8d2f5b))
+
 ## [3.1.13](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.12...@ng-easy/eslint-config@3.1.13) (2021-08-29)
 
 

@@ -1,3 +1,13 @@
+## [1.3.13](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.12...@ng-easy/image-optimizer@1.3.13) (2021-09-01)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.30.0 ([50c839f](https://github.com/ng-easy/platform/commit/50c839f45e791dc07a2f395775db449ef0f0e8b5))
+* :arrow_up: update dependency eslint-plugin-prettier to v4 ([#208](https://github.com/ng-easy/platform/issues/208)) ([6aa1233](https://github.com/ng-easy/platform/commit/6aa1233868bff9da2e2deb9fbc94a29199f8ffbb))
+* :arrow_up: update dependency tailwindcss to ^2.2.9 ([db26e42](https://github.com/ng-easy/platform/commit/db26e42e814993bd60f73152566586788e8d2f5b))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.9 [skip ci] ([b649be7](https://github.com/ng-easy/platform/commit/b649be72e1a019841e2cec732e9c2665a3dd2d92))
+
 ## [1.3.12](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.11...@ng-easy/image-optimizer@1.3.12) (2021-08-29)
 
 

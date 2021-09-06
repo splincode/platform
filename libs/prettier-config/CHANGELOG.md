@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.12...@ng-easy/prettier-config@1.0.13) (2021-09-06)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency @semantic-release/git to ^9.0.1 ([#216](https://github.com/ng-easy/platform/issues/216)) ([7e8ca11](https://github.com/ng-easy/platform/commit/7e8ca1132c36fe21898cd0a11a07f19abc297617))
+
 ## [1.0.12](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.11...@ng-easy/prettier-config@1.0.12) (2021-09-01)
 
 

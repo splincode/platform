@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.9...@ng-easy/image-config@1.2.10) (2021-09-06)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency @semantic-release/git to ^9.0.1 ([#216](https://github.com/ng-easy/platform/issues/216)) ([7e8ca11](https://github.com/ng-easy/platform/commit/7e8ca1132c36fe21898cd0a11a07f19abc297617))
+
 ## [1.2.9](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.8...@ng-easy/image-config@1.2.9) (2021-09-01)
 
 

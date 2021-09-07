@@ -1,3 +1,11 @@
+## [1.2.11](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.10...@ng-easy/image-config@1.2.11) (2021-09-07)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.31.0 ([6e27898](https://github.com/ng-easy/platform/commit/6e27898dde8d3415575edd6cdc32353cd8cd2fd9))
+* :arrow_up: update dependency tailwindcss to ^2.2.10 ([bee3cc0](https://github.com/ng-easy/platform/commit/bee3cc09ed2ea09383c08b42c6967cd048fdaf73))
+
 ## [1.2.10](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.9...@ng-easy/image-config@1.2.10) (2021-09-06)
 
 

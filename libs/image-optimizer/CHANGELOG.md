@@ -1,3 +1,12 @@
+## [1.3.16](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.15...@ng-easy/image-optimizer@1.3.16) (2021-09-08)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency @nrwl/workspace to v12.9.0 ([9219fe3](https://github.com/ng-easy/platform/commit/9219fe347803e6b95384172dc99c72e0fe87c46a))
+* :arrow_up: update dependency eslint-plugin-jsdoc to ^36.1.0 ([cf00694](https://github.com/ng-easy/platform/commit/cf006942bbf33fb160c2ca432f07d1c8331df509))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.12 [skip ci] ([0a18ce8](https://github.com/ng-easy/platform/commit/0a18ce8e3b334295a038207b02fc6e6028cbd0e2))
+
 ## [1.3.15](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.14...@ng-easy/image-optimizer@1.3.15) (2021-09-07)
 
 

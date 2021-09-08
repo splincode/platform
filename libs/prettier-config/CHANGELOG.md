@@ -1,3 +1,11 @@
+## [1.0.15](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.14...@ng-easy/prettier-config@1.0.15) (2021-09-08)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency @nrwl/workspace to v12.9.0 ([9219fe3](https://github.com/ng-easy/platform/commit/9219fe347803e6b95384172dc99c72e0fe87c46a))
+* :arrow_up: update dependency eslint-plugin-jsdoc to ^36.1.0 ([cf00694](https://github.com/ng-easy/platform/commit/cf006942bbf33fb160c2ca432f07d1c8331df509))
+
 ## [1.0.14](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.13...@ng-easy/prettier-config@1.0.14) (2021-09-07)
 
 

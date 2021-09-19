@@ -1,3 +1,10 @@
+## [3.1.20](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.19...@ng-easy/eslint-config@3.1.20) (2021-09-19)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency semantic-release to v18 ([#232](https://github.com/ng-easy/platform/issues/232)) ([e47e522](https://github.com/ng-easy/platform/commit/e47e52239f1e6989f3febdad9efa86e6974277e6))
+
 ## [3.1.19](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.18...@ng-easy/eslint-config@3.1.19) (2021-09-18)
 
 

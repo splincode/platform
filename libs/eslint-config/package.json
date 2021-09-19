@@ -1,6 +1,6 @@
 {
   "name": "@ng-easy/eslint-config",
-  "version": "3.1.19",
+  "version": "3.1.20",
   "description": "Shared ESLint configuration for ng-easy projects",
   "keywords": [
     "angular",

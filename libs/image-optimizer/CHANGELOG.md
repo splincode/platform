@@ -1,3 +1,11 @@
+## [1.3.18](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.17...@ng-easy/image-optimizer@1.3.18) (2021-09-19)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency semantic-release to v18 ([#232](https://github.com/ng-easy/platform/issues/232)) ([e47e522](https://github.com/ng-easy/platform/commit/e47e52239f1e6989f3febdad9efa86e6974277e6))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.14 [skip ci] ([ffcb3b2](https://github.com/ng-easy/platform/commit/ffcb3b2b4971e5644791531e24bd32e2f1d3cdc6))
+
 ## [1.3.17](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.16...@ng-easy/image-optimizer@1.3.17) (2021-09-18)
 
 

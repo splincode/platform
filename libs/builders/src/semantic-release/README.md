@@ -93,7 +93,7 @@ Example of `angular.json`/`workspace.json`:
 }
 ```
 
-Dependencies will be calculated using Nx project graph. When `projectA` is a dependency of `projectB` and the first gets upgraded to a new version, it will create a new commit that will bump the version of the latter. It will happen only if both projects are a buildable and publishable library, having the `release` target correctly configured.
+Dependencies will be calculated using Nx project graph. When `projectA` is a dependency of `projectB` and the first gets upgraded to a new version, it will create a new commit that will bump the version of the latter. It will happen only if both projects are a buildable and publishable library, having the `release` target correctly configured. Please notice that handling dependencies doesn't work in regular Angular workspaces, it requires Nx.
 
 ## How to use `sync` mode
 

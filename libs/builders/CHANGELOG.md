@@ -1,3 +1,10 @@
+## [3.3.13](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.12...@ng-easy/builders@3.3.13) (2021-09-20)
+
+
+### Bug Fixes
+
+* **builders:** :bug: skip calculation of project dependencies when not in nx project ([d2e7cf2](https://github.com/ng-easy/platform/commit/d2e7cf2bac04452ef2ac31919f49a2588caa59ed))
+
 ## [3.3.12](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.11...@ng-easy/builders@3.3.12) (2021-09-20)
 
 

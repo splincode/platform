@@ -1,3 +1,10 @@
+## [3.3.12](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.11...@ng-easy/builders@3.3.12) (2021-09-20)
+
+
+### Bug Fixes
+
+* **builders:** :bug: detect build parameters for Angular builder ([#235](https://github.com/ng-easy/platform/issues/235)) ([15fd83f](https://github.com/ng-easy/platform/commit/15fd83f79149d6a167c3469f1f03ef68a43df4a6))
+
 ## [3.3.11](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.10...@ng-easy/builders@3.3.11) (2021-09-20)
 
 

@@ -1,3 +1,10 @@
+## [3.3.14](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.13...@ng-easy/builders@3.3.14) (2021-09-20)
+
+
+### Bug Fixes
+
+* **builders:** :bug: don't use withDeps when invoking build target ([99c3952](https://github.com/ng-easy/platform/commit/99c39528632665de0b56d1732fddae25371c4e51))
+
 ## [3.3.13](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.12...@ng-easy/builders@3.3.13) (2021-09-20)
 
 

@@ -1,3 +1,10 @@
+## [3.3.11](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.10...@ng-easy/builders@3.3.11) (2021-09-20)
+
+
+### Bug Fixes
+
+* **builders:** :bug: use deps instead of peer deps ([#234](https://github.com/ng-easy/platform/issues/234)) ([d00b397](https://github.com/ng-easy/platform/commit/d00b39767b90c7b670dad997177c3161c61baf63))
+
 ## [3.3.10](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.9...@ng-easy/builders@3.3.10) (2021-09-19)
 
 

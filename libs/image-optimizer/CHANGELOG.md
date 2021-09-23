@@ -1,3 +1,11 @@
+## [1.3.19](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.18...@ng-easy/image-optimizer@1.3.19) (2021-09-23)
+
+
+### Bug Fixes
+
+* :arrow_up: update semantic-release monorepo ([#238](https://github.com/ng-easy/platform/issues/238)) ([31386a2](https://github.com/ng-easy/platform/commit/31386a2cba1d9ac3eadbefbb3f70a84f0a545558))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.15 [skip ci] ([7cef77b](https://github.com/ng-easy/platform/commit/7cef77b7cd84019c14048092b9740cb4df75a220))
+
 ## [1.3.18](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.17...@ng-easy/image-optimizer@1.3.18) (2021-09-19)
 
 

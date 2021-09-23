@@ -1,3 +1,10 @@
+## [3.1.21](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.20...@ng-easy/eslint-config@3.1.21) (2021-09-23)
+
+
+### Bug Fixes
+
+* :arrow_up: update semantic-release monorepo ([#238](https://github.com/ng-easy/platform/issues/238)) ([31386a2](https://github.com/ng-easy/platform/commit/31386a2cba1d9ac3eadbefbb3f70a84f0a545558))
+
 ## [3.1.20](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.19...@ng-easy/eslint-config@3.1.20) (2021-09-19)
 
 

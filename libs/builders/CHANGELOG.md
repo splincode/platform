@@ -1,3 +1,12 @@
+## [3.3.15](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.14...@ng-easy/builders@3.3.15) (2021-09-23)
+
+
+### Bug Fixes
+
+* :arrow_up: update semantic-release monorepo ([#238](https://github.com/ng-easy/platform/issues/238)) ([31386a2](https://github.com/ng-easy/platform/commit/31386a2cba1d9ac3eadbefbb3f70a84f0a545558))
+* **builders:** :arrow_up: update @ng-easy/image-config to 1.2.15 [skip ci] ([1a155ce](https://github.com/ng-easy/platform/commit/1a155ce29a570c42d7c879ede3d2d98a305806f7))
+* **builders:** :arrow_up: update @ng-easy/image-optimizer to 1.3.19 [skip ci] ([5dc627b](https://github.com/ng-easy/platform/commit/5dc627b13a1746be1dc381e826f98dd57d6dd2e9))
+
 ## [3.3.14](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.13...@ng-easy/builders@3.3.14) (2021-09-20)
 
 

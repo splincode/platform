@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.17...@ng-easy/prettier-config@1.0.18) (2021-09-23)
+
+
+### Bug Fixes
+
+* :arrow_up: update semantic-release monorepo ([#238](https://github.com/ng-easy/platform/issues/238)) ([31386a2](https://github.com/ng-easy/platform/commit/31386a2cba1d9ac3eadbefbb3f70a84f0a545558))
+
 ## [1.0.17](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.16...@ng-easy/prettier-config@1.0.17) (2021-09-19)
 
 

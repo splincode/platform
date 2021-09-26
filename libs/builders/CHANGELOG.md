@@ -1,3 +1,12 @@
+## [3.3.16](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.15...@ng-easy/builders@3.3.16) (2021-09-26)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency eslint-plugin-unused-imports to ^1.1.5 ([3ea65b0](https://github.com/ng-easy/platform/commit/3ea65b067058f555abd15e582faad0e0f77665a4))
+* **builders:** :arrow_up: update @ng-easy/image-config to 1.2.16 [skip ci] ([4961bba](https://github.com/ng-easy/platform/commit/4961bba1100fa80f8564781744b7a8e30536e82a))
+* **builders:** :arrow_up: update @ng-easy/image-optimizer to 1.3.20 [skip ci] ([5cd74e4](https://github.com/ng-easy/platform/commit/5cd74e47aa7ebd2b9de7e1b80eb3f26be449e83d))
+
 ## [3.3.15](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.14...@ng-easy/builders@3.3.15) (2021-09-23)
 
 

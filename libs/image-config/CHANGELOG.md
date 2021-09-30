@@ -1,3 +1,10 @@
+## [1.2.17](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.16...@ng-easy/image-config@1.2.17) (2021-09-30)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.32.0 ([bcb8471](https://github.com/ng-easy/platform/commit/bcb8471cf94a43e42426998c0173b9bfaa86c7d9))
+
 ## [1.2.16](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.15...@ng-easy/image-config@1.2.16) (2021-09-26)
 
 

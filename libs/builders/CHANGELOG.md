@@ -1,3 +1,12 @@
+## [3.3.18](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.17...@ng-easy/builders@3.3.18) (2021-10-06)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.33.0 ([c554d9d](https://github.com/ng-easy/platform/commit/c554d9d5a57c78b6afea83dac4316dcc40d4fbe4))
+* **builders:** :arrow_up: update @ng-easy/image-config to 1.2.18 [skip ci] ([930620c](https://github.com/ng-easy/platform/commit/930620c14c39199dfd659063a6d8f80a5e5d3062))
+* **builders:** :arrow_up: update @ng-easy/image-optimizer to 1.3.22 [skip ci] ([431860f](https://github.com/ng-easy/platform/commit/431860f9ab527c8e410ad830702e63c50ef867fa))
+
 ## [3.3.17](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.16...@ng-easy/builders@3.3.17) (2021-09-30)
 
 

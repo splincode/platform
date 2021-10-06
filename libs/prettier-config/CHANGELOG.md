@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.20...@ng-easy/prettier-config@1.0.21) (2021-10-06)
+
+
+### Bug Fixes
+
+* :arrow_up: update client tooling to ^4.33.0 ([c554d9d](https://github.com/ng-easy/platform/commit/c554d9d5a57c78b6afea83dac4316dcc40d4fbe4))
+
 ## [1.0.20](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.19...@ng-easy/prettier-config@1.0.20) (2021-09-30)
 
 

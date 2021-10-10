@@ -1,3 +1,13 @@
+## [1.2.19](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.18...@ng-easy/image-config@1.2.19) (2021-10-10)
+
+
+### Bug Fixes
+
+* :arrow_up: update angular workspace to v12.2.9 ([924a227](https://github.com/ng-easy/platform/commit/924a227db00bd6ae2a12b930dfc1d4a529c230b9))
+* :arrow_up: update dependency @nrwl/workspace to v12.10.0 ([feb3088](https://github.com/ng-easy/platform/commit/feb3088e3ca5c6db1ecbd2a1567b51f7722daccd))
+* :arrow_up: update dependency eslint-plugin-jsdoc to ^36.1.1 ([7043aa2](https://github.com/ng-easy/platform/commit/7043aa23e9bfc63c10979384e806dce3b9ede984))
+* ⬆️ update dependency @nrwl/workspace to v12.10.0 ([#250](https://github.com/ng-easy/platform/issues/250)) ([84c9cd6](https://github.com/ng-easy/platform/commit/84c9cd646290fffdbef166158c66c797614ad163))
+
 ## [1.2.18](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.17...@ng-easy/image-config@1.2.18) (2021-10-06)
 
 

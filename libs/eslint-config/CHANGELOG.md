@@ -1,3 +1,10 @@
+## [3.1.26](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.25...@ng-easy/eslint-config@3.1.26) (2021-10-14)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency eslint-plugin-import to ^2.25.2 ([50d49b1](https://github.com/ng-easy/platform/commit/50d49b13c60a24cc11dd86bf3574075ef5f5e523))
+
 ## [3.1.25](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.24...@ng-easy/eslint-config@3.1.25) (2021-10-10)
 
 

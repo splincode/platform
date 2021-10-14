@@ -1,3 +1,11 @@
+## [1.3.24](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.23...@ng-easy/image-optimizer@1.3.24) (2021-10-14)
+
+
+### Bug Fixes
+
+* :arrow_up: update dependency eslint-plugin-import to ^2.25.2 ([50d49b1](https://github.com/ng-easy/platform/commit/50d49b13c60a24cc11dd86bf3574075ef5f5e523))
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.20 [skip ci] ([4ba4470](https://github.com/ng-easy/platform/commit/4ba44703bea0b25440c1c0e3aebfab71410e8430))
+
 ## [1.3.23](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.22...@ng-easy/image-optimizer@1.3.23) (2021-10-10)
 
 

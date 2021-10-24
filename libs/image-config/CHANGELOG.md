@@ -1,3 +1,10 @@
+## [1.2.22](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.21...@ng-easy/image-config@1.2.22) (2021-10-24)
+
+
+### Bug Fixes
+
+* upgrade cypress to v8 ([#272](https://github.com/ng-easy/platform/issues/272)) ([b664525](https://github.com/ng-easy/platform/commit/b664525ba816a1a68b182158448dfa41ea6f7c0d))
+
 ## [1.2.21](https://github.com/ng-easy/platform/compare/@ng-easy/image-config@1.2.20...@ng-easy/image-config@1.2.21) (2021-10-23)
 
 

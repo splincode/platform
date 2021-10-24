@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.24...@ng-easy/prettier-config@1.0.25) (2021-10-24)
+
+
+### Bug Fixes
+
+* upgrade cypress to v8 ([#272](https://github.com/ng-easy/platform/issues/272)) ([b664525](https://github.com/ng-easy/platform/commit/b664525ba816a1a68b182158448dfa41ea6f7c0d))
+
 ## [1.0.24](https://github.com/ng-easy/platform/compare/@ng-easy/prettier-config@1.0.23...@ng-easy/prettier-config@1.0.24) (2021-10-23)
 
 

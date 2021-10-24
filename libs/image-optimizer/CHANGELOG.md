@@ -1,3 +1,11 @@
+## [1.3.26](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.25...@ng-easy/image-optimizer@1.3.26) (2021-10-24)
+
+
+### Bug Fixes
+
+* **image-optimizer:** :arrow_up: update @ng-easy/image-config to 1.2.22 [skip ci] ([f6c3532](https://github.com/ng-easy/platform/commit/f6c3532ae180438e88da9720fac5b75fdad2241b))
+* upgrade cypress to v8 ([#272](https://github.com/ng-easy/platform/issues/272)) ([b664525](https://github.com/ng-easy/platform/commit/b664525ba816a1a68b182158448dfa41ea6f7c0d))
+
 ## [1.3.25](https://github.com/ng-easy/platform/compare/@ng-easy/image-optimizer@1.3.24...@ng-easy/image-optimizer@1.3.25) (2021-10-23)
 
 

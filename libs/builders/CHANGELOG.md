@@ -1,3 +1,12 @@
+## [3.4.1](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.4.0...@ng-easy/builders@3.4.1) (2021-10-24)
+
+
+### Bug Fixes
+
+* **builders:** :arrow_up: update @ng-easy/image-config to 1.2.22 [skip ci] ([273f7b6](https://github.com/ng-easy/platform/commit/273f7b6e09032c0ea4dc3ace686d13d43bb83593))
+* **builders:** :arrow_up: update @ng-easy/image-optimizer to 1.3.26 [skip ci] ([e8dff05](https://github.com/ng-easy/platform/commit/e8dff05a21693a22a16418bedca63928fdea9acf))
+* upgrade cypress to v8 ([#272](https://github.com/ng-easy/platform/issues/272)) ([b664525](https://github.com/ng-easy/platform/commit/b664525ba816a1a68b182158448dfa41ea6f7c0d))
+
 # [3.4.0](https://github.com/ng-easy/platform/compare/@ng-easy/builders@3.3.20...@ng-easy/builders@3.4.0) (2021-10-23)
 
 

@@ -1,3 +1,10 @@
+## [3.1.28](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.27...@ng-easy/eslint-config@3.1.28) (2021-10-24)
+
+
+### Bug Fixes
+
+* upgrade cypress to v8 ([#272](https://github.com/ng-easy/platform/issues/272)) ([b664525](https://github.com/ng-easy/platform/commit/b664525ba816a1a68b182158448dfa41ea6f7c0d))
+
 ## [3.1.27](https://github.com/ng-easy/platform/compare/@ng-easy/eslint-config@3.1.26...@ng-easy/eslint-config@3.1.27) (2021-10-23)
 
 
